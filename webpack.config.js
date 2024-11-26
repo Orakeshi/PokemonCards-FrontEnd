@@ -17,7 +17,7 @@ module.exports = {
     },
 
     output: {
-        path: path.join("/Users/tommy/Documents/Dev/Personal/Coding/Projects/PokemonBinder/", 'Release/'),
+        path: path.join("/Users/tommy/Documents/Dev/Personal/Coding/Projects/PokemonCards-FrontEnd/", 'Release/'),
     },
 
     plugins: [
