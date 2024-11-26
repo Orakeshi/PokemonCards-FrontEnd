@@ -1,3 +1,6 @@
+@use '../../partials/screens' as *;
+
+
 /* Zoom effect and pop-out when hovering over the image */
 @import url('https://fonts.cdnfonts.com/css/pokemon-solid');
 
@@ -27,22 +30,49 @@
 }
 
 
-#display-card{
+#display-card {
   z-index: 99;
+  background-color: rgba(0, 0, 0, 0.8); /* Dark overlay */
+  display: none;
   position: fixed;
-  width: 20%;
-  height: 45%;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  display: none;
+  max-width: 18vw;
+  padding: 0.3rem;
+  border-radius: 30px;
+  transition: opacity 0.3s ease;
 }
-#display-card-image{
-  border-radius: 30px; /* Adjust the radius value to control the roundness */
-  object-fit: cover;    /* Ensures the image fills the space */
+
+#display-card.open {
+  display: block;
+  opacity: 1;
+}
+
+#display-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 30px;
 }
 
 
 .zoomable-image {
   transition: transform 0.3s ease, z-index 0.3s ease; /* Smooth zoom transition */
+}
+
+
+@media (max-width: $breakpoint-small) { /* Phones */
+  #display-card {
+    z-index: 99;
+    background-color: rgba(0, 0, 0, 0.8); /* Dark overlay */
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 80vw;
+    padding: 0.3rem;
+    border-radius: 30px;
+    transition: opacity 0.3s ease;
+  }
 }

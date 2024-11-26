@@ -66,12 +66,12 @@ Forms
 .navbar-link-eng {
   cursor: context-menu;
   font-weight: 100;
-  font-size: 0.66em;
+  font-size: 1em;
 }
 
 .navbar-link-jp {
   font-weight: 100;
-  font-size: 1.8rem;
+  font-size: 1.3em;
 }
 
 .container {
@@ -87,7 +87,7 @@ Forms
     padding: 0 10px; /* Reduce padding on smaller screens */
   }
 }
-@media only screen and (min-width: 601px) {
+@media only screen and (min-width: 768px) {
   .navbar-list {
     padding-inline-start: 40px;
   }

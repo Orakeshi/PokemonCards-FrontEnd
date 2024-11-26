@@ -81,11 +81,11 @@ export default class Binder {
         return `
             <div class="card-entry">
                 <div class="card-image">
-                    <img class="zoomable-image" src="${imageUrl}" alt="${card.name}">
+                    <img class="zoomable-image" src="${imageUrl}" loading="lazy" alt="${card.name}">
                 </div>
                 <div class="card-info">
-                    <h2 class="card-name">${card.name}</h2>
-                    ${card.number ? `<h2 class="card-number">#${card.number}</h2>` : ''}
+                    <h3 class="card-name">${card.name}</h3>
+                    ${card.number ? `<h3 class="card-number">#${card.number}</h3>` : ''}
                 </div>
             </div>
         `;
