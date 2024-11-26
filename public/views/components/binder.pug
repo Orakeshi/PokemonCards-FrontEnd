@@ -1,0 +1,12 @@
+mixin cardEntry(card)
+    .card-entry
+        .card-image
+            img(src=card.image alt=card.name)
+        .card-info
+            h2.card-name= card.name
+            p.card-type Type: #{card.type}
+            p.card-rarity Rarity: #{card.rarity}
+            if card.set
+                p.card-set Set: #{card.set}
+            if card.number
+                p.card-number Card #: #{card.number}

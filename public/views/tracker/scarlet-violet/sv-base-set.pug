@@ -1,0 +1,30 @@
+doctype html
+html(lang="en")
+    head
+        meta(charset="UTF-8")
+        meta(name="viewport", content="width=device-width, initial-scale=1.0")
+
+        include ../../partials/page
+        include ../../components/toggle
+
+        link(rel="stylesheet", href=require("@Sass/components/cards/binder.scss"))
+        link(rel="stylesheet", href=require("@Sass/components/cards/toploader.scss"))
+        link(rel="stylesheet", href=require("@Sass/components/cards/card.scss"))
+
+        title S&V: Base Set
+
+
+    body
+        h1.page-title Scarlet & Violet: Base Set
+        div.toggles
+            +toggle("Binder", "binder-toggle","binder-container", true)
+            +toggle("Top Loader", "toploader-toggle","toploader-container", true)
+
+        div#display-card
+            img#display-card-image
+
+        .binder-container#binder-container
+        .toploader-container#toploader-container
+
+
+    script(type=module src="JS/pages/scarlet-violet/scarlet-violet.js")

@@ -1,0 +1,29 @@
+.toploader-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 70%;
+  margin: 0 auto;
+  align-items: center;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 300px;
+  height: 530px;
+  border: 3px solid #ccc;
+  background-color: grey;
+  border-radius: 10px;
+  margin: 10px;
+  box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth card scaling */
+}
+.card:hover {
+  transform: scale(1.05); /* Slightly enlarges the entire card */
+  box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.2); /* Adds a larger shadow to emphasize pop-out */
+}
+
+/*# sourceMappingURL=toploader.css.map */

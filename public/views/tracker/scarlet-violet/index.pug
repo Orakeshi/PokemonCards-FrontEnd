@@ -1,0 +1,27 @@
+doctype html
+html(lang="en")
+    head
+        meta(charset="UTF-8")
+        meta(name="viewport", content="width=device-width, initial-scale=1.0")
+        link(rel="stylesheet", href=require("@Sass/components/cards/set.scss"))
+
+        title Scarlet & Violet
+        include ../../partials/page
+        include ../../components/toggle
+
+
+    body
+        h1.page-title Scarlet & Violet: Sets
+
+        div.set-container
+            div.set#sv-base-set
+                div.set-number
+                    h2 Set: #01
+                div.set-image
+                    img.set-image(src=require("Images/sv-base-set.webp"))
+                div.set-name
+                    h2 Scarlet & Violet: Base Set
+
+
+
+    script(type=module src="JS/pages/scarlet-violet/index.js")

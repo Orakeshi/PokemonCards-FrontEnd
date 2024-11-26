@@ -1,0 +1,35 @@
+doctype html
+html(lang="en")
+  head
+    meta(charset="UTF-8")
+    meta(name="viewport", content="width=device-width, initial-scale=1.0")
+
+
+    title Home
+    include ./partials/page.pug
+
+  body
+    main.container
+        h1.page-title Pokemon Card Tracker
+        p 
+            | Pokemon Card Tracker Application by おらけしです
+
+        table
+            caption.centre Highlight Testing
+                thead
+                    tr
+                        th.centre Colour
+                        th.centre RGB
+                tbody
+                    tr
+                        td.centre.highlight-blue 私わおらけしです
+                        td.centre 0, 191, 255
+                    tr
+                        td.centre.highlight-orange 私わおらけしです
+                        td.centre 255, 187, 0     
+                    tr
+                        td.centre.highlight-green 私わおらけしです
+                        td.centre 0, 255, 145
+
+
+    script(src="JS/pages/index.js")

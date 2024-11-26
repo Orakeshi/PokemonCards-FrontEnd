@@ -1,0 +1,110 @@
+@use 'screens' as *;
+
+/*
+Forms
+*/
+.form-container {
+    border: 1px solid pink;
+    display: flex;
+    flex-direction: column;
+
+    align-items: center; /* Vertically center the items */
+    //justify-content: space-between;  /* Distributes space between the items */
+}
+.form-input{
+    //border: 1px solid blue;
+    display: flex;
+    flex-direction: row;
+    align-items: center; /* Vertically center the items */
+    //justify-content: space-between;  /* Distributes space between the items */
+
+    label{
+        display: flex;
+        flex: 0.2;
+        text-align: center;
+        padding: 2%;
+
+        //align-content: center;
+        //text-align: center;
+        font-size: 22px;
+    }
+    input{
+        flex: 0.5;
+        display: flex;
+
+    }
+}
+
+
+.page-title{
+    text-align: center;
+  }
+  
+.page-subtitle{
+    text-align: center;
+}
+
+.navbar{
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.navbar-logo{
+    float: right;
+    margin-top: 1em;
+    margin-right: 0.4em;
+    width: auto;
+    height: 49px;
+    padding: 0;
+
+    display: block;
+    margin-left: auto;
+}
+
+
+.navbar-list{
+    font-family: "Noto Sans", "Noto Sans CJK JP", 'ヒラギノ角ゴ ProN', 'Hiragino Kaku Gothic ProN', '游ゴシック', '游ゴシック体', YuGothic, 'Yu Gothic', 'メイリオ', Meiryo, 'ＭＳ ゴシック', 'MS Gothic', HiraKakuProN-W3, 'TakaoExゴシック', TakaoExGothic, 'MotoyaLCedar', 'Droid Sans Japanese', sans-serif;
+    //background: url();
+
+}
+
+.navbar-list-item{
+    text-align: center;
+    line-height: 2em;
+    display: inline-block;
+    margin-left: 1em;
+}
+
+.navbar-link-eng{
+    cursor: context-menu;
+    font-weight: 100;
+    font-size: 0.66em;
+}
+
+.navbar-link-jp{
+    font-weight: 100;
+    font-size: 1.8rem;
+}
+
+.container {
+    max-width:44em;
+    margin:20px auto;
+    padding:0 1.5rem;
+    letter-spacing: 0.04em;
+    line-height: 1.8em;
+}
+
+@media only screen and (max-width: $breakpoint-maxwidth) {
+    .container {
+        padding: 0 10px; /* Reduce padding on smaller screens */
+    }
+}
+
+@media only screen and (min-width: $breakpoint-medium) {
+    .navbar-list{
+        //background: url();
+        padding-inline-start: 40px;
+    
+    }
+}

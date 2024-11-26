@@ -1,0 +1,48 @@
+/* Zoom effect and pop-out when hovering over the image */
+@import url('https://fonts.cdnfonts.com/css/pokemon-solid');
+
+.card-image {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+
+  img{
+    border-radius: 10px; /* Adjust the radius value to control the roundness */
+    object-fit: cover;    /* Ensures the image fills the space */
+
+  }
+
+  overflow: hidden; /* Hide any part of the image that overflows the container */
+  z-index: 1;
+}
+
+.card-info {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  margin: 5px auto;
+}
+
+
+#display-card{
+  z-index: 99;
+  position: fixed;
+  width: 20%;
+  height: 45%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: none;
+}
+#display-card-image{
+  border-radius: 30px; /* Adjust the radius value to control the roundness */
+  object-fit: cover;    /* Ensures the image fills the space */
+}
+
+
+.zoomable-image {
+  transition: transform 0.3s ease, z-index 0.3s ease; /* Smooth zoom transition */
+}

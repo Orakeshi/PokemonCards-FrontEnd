@@ -1,0 +1,25 @@
+mixin toggle(toggleText, toggleId, elementToToggle, toggleStatus)
+    div.toggle-parent
+        h2.toggle-text #{toggleText}
+        label.switch
+            input(type='checkbox' id=`${toggleId}` checked=`${toggleStatus}`)
+            span.slider.round
+    script.
+        document.addEventListener('DOMContentLoaded', function() {
+            let toggleElement = document.getElementById('#{toggleId}');
+            let elementToHide = document.getElementById('#{elementToToggle}');
+
+            toggleElement.addEventListener('change', function() {
+                // Check if the checkbox is checked
+                if (this.checked) {
+                    console.log('Checkbox is checked');
+                    elementToHide.style.display = "flex"
+
+                } else {
+                    console.log('Checkbox is not checked');
+                    elementToHide.style.display = "none"
+
+                }
+            });
+        });
+
