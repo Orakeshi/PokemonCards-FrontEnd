@@ -3,6 +3,7 @@ html(lang="en")
   head
     meta(charset="UTF-8")
     meta(name="viewport", content="width=device-width, initial-scale=1.0")
+    link(rel="stylesheet", href=require("@Sass/pages/index.scss"))
 
 
     title Home
@@ -11,25 +12,17 @@ html(lang="en")
   body
     main.container
         h1.page-title Pokemon Card Tracker
-        p 
-            | Pokemon Card Tracker Application by おらけしです
+        .displaytest
+            img(src="https://media4.giphy.com/media/U2nN0ridM4lXy/200w.gif?cid=6c09b9529tltu73gideqyzgxq17npgg8pwvjbh9679fpke4p&ep=v1_gifs_search&rid=200w.gif&ct=g" style="width: 100%")
 
-        table
-            caption.centre Highlight Testing
-                thead
-                    tr
-                        th.centre Colour
-                        th.centre RGB
-                tbody
-                    tr
-                        td.centre.highlight-blue 私わおらけしです
-                        td.centre 0, 191, 255
-                    tr
-                        td.centre.highlight-orange 私わおらけしです
-                        td.centre 255, 187, 0     
-                    tr
-                        td.centre.highlight-green 私わおらけしです
-                        td.centre 0, 255, 145
+        div.display-container
+
+            .display
+                img#pokemon-01
+            .display
+                img#pokemon-02
+            .display
+                img#pokemon-03
 
 
     script(src="JS/pages/index.js")
