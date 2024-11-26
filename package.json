@@ -1,8 +1,8 @@
 {
-  "name": "MoneyTracker-FrontEnd",
+  "name": "PokemonCards-FrontEnd",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:Orakeshi/MoneyTracker-FrontEnd.git",
+  "repository": "git@github.com:Orakeshi/PokemonCards-FrontEnd.git",
   "author": "Tommy Webb <tommygeorgewebb@googlemail.com>",
   "license": "MIT",
   "dependencies": {

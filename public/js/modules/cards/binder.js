@@ -50,13 +50,13 @@ export default class Binder {
 
                 if(card.isRHAvailable() === false) return;
                 card.name = `${card.name} [RH]`
-                this.createCardEntry(card, card.isRHCollected());
+                this.createCardEntry(card, card.isRHCollected(), true);
             }
 
         });
     }
 
-    createCardEntry(card, collected) {
+    createCardEntry(card, collected, isReverseHolo = false) {
         if (this.cardEntries === 3) {
             this.cardEntries = 0;
             this.rowEntries++;
@@ -71,15 +71,17 @@ export default class Binder {
             }
         }
 
-        const cardEntry = this.generateCardHTML(card, collected);
+        const cardEntry = this.generateCardHTML(card, collected, isReverseHolo);
         this.currentRow.innerHTML += cardEntry;
         this.cardEntries++;
     }
 
-    generateCardHTML(card, collected = true) {
+    generateCardHTML(card, collected = true, isReverseHolo = false) {
         const imageUrl = card.getImageUrl(collected);
+        const reverseHoloClass = isReverseHolo ? 'reverse-holo' : '';
+
         return `
-            <div class="card-entry">
+            <div class="card-entry ${reverseHoloClass}">
                 <div class="card-image">
                     <img class="zoomable-image" src="${imageUrl}" loading="lazy" alt="${card.name}">
                 </div>
