@@ -15,7 +15,7 @@
   \*************************************************/
 /***/ (() => {
 
-eval("let scarletVioletBaseSet = document.getElementById(\"sv-base-set\");\n\nscarletVioletBaseSet.addEventListener(\"click\", (e) => {\n    window.location.href=\"/PokemonCards-FrontEnd/tracker/scarlet-violet/sv-base-set\"\n})\n\n//# sourceURL=webpack://MoneyTracker-FrontEnd/./public/js/pages/scarlet-violet/index.js?");
+eval("let scarletVioletBaseSet = document.getElementById(\"sv-base-set\");\n\nscarletVioletBaseSet.addEventListener(\"click\", (e) => {\n    window.location.href=\"/PokemonCards-FrontEnd/tracker/scarlet-violet/sv-base-set\"\n})\n\n//# sourceURL=webpack://PokemonCards-FrontEnd/./public/js/pages/scarlet-violet/index.js?");
 
 /***/ })
 

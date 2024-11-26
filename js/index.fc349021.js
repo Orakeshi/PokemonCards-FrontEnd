@@ -15,7 +15,7 @@
   \**********************************/
 /***/ (() => {
 
-eval("\n\n//# sourceURL=webpack://MoneyTracker-FrontEnd/./public/js/pages/index.js?");
+eval("\n\n//# sourceURL=webpack://PokemonCards-FrontEnd/./public/js/pages/index.js?");
 
 /***/ })
 
