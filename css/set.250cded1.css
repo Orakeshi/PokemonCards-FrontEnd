@@ -1,0 +1,35 @@
+.set-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.set {
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  border: 3px solid black;
+  border-radius: 10px;
+  width: 350px;
+  box-sizing: border-box;
+  margin: 20px 20px auto;
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth card scaling */
+}
+.set .set-number, .set .set-name {
+  margin: 0 auto;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.set .set-number h2, .set .set-name h2 {
+  text-align: center;
+}
+.set .set-image {
+  display: flex;
+  width: 100%;
+  box-sizing: border-box;
+}
+.set:hover {
+  transform: scale(1.05); /* Slightly enlarges the entire card */
+  box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.2); /* Adds a larger shadow to emphasize pop-out */
+}
