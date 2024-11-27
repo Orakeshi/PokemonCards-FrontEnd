@@ -16,9 +16,9 @@ export default class Toploader {
             const card = new Card(
                 cardInfo.number,
                 cardInfo.name,
-                cardInfo["base-collected"],
-                cardInfo["rh-collected"],
-                cardInfo["card-storage"],
+                cardInfo["base-card"],
+                cardInfo["reverse-holo"],
+                cardInfo.storage,
             );
 
             if(card.isToploaderCard() === true){

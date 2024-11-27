@@ -1,2324 +1,3914 @@
 [
     {
         "number": "1",
-        "card-storage": "Binder",
         "name": "Pineco",
-        "base-collected": "TRUE",
-        "rh-collected": "TRUE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "2",
-        "card-storage": "Binder",
         "name": "Heracross",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "3",
-        "card-storage": "Binder",
         "name": "Shroomish",
-        "base-collected": "FALSE",
-        "rh-collected": "TRUE",
-        "base-collected-type": null,
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "4",
-        "card-storage": "Binder",
         "name": "Breloom",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "5",
-        "card-storage": "Binder",
         "name": "Cacnea",
-        "base-collected": "FALSE",
-        "rh-collected": "TRUE",
-        "base-collected-type": null,
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "6",
-        "card-storage": "Binder",
         "name": "Cacturne",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "7",
-        "card-storage": "Binder",
         "name": "Tropius",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": "Pending",
+            "collected-date": ""
+        }
     },
     {
         "number": "8",
-        "card-storage": "Binder",
         "name": "Scatterbug",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "9",
-        "card-storage": "Binder",
         "name": "Spewpa",
-        "base-collected": "FALSE",
-        "rh-collected": "TRUE",
-        "base-collected-type": null,
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "10",
-        "card-storage": "Binder",
         "name": "Vivillon",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "11",
-        "card-storage": "Binder",
         "name": "Skiddo",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "12",
-        "card-storage": "Binder",
         "name": "Gogoat",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": "Pending",
+            "collected-date": ""
+        }
     },
     {
         "number": "13",
-        "card-storage": "Binder",
         "name": "Sprigatito",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": "Pending",
+            "collected-date": ""
+        }
     },
     {
         "number": "14",
-        "card-storage": "Binder",
         "name": "Floragato",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "15",
-        "card-storage": "Binder",
         "name": "Meowscarada",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "16",
-        "card-storage": "Binder",
         "name": "Tarountula",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "17",
-        "card-storage": "Binder",
         "name": "Tarountula",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "18",
-        "card-storage": "Binder",
         "name": "Tarountula",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": "Pending",
+            "collected-date": ""
+        }
     },
     {
         "number": "19",
-        "card-storage": "Top Loader",
         "name": "Spidops ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "20",
-        "card-storage": "Binder",
         "name": "Smoliv",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "21",
-        "card-storage": "Binder",
         "name": "Smoliv",
-        "base-collected": "FALSE",
-        "rh-collected": "TRUE",
-        "base-collected-type": null,
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "22",
-        "card-storage": "Binder",
         "name": "Dolliv",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": "Pending",
+            "collected-date": ""
+        }
     },
     {
         "number": "23",
-        "card-storage": "Binder",
         "name": "Arboliva",
-        "base-collected": "FALSE",
-        "rh-collected": "TRUE",
-        "base-collected-type": null,
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "24",
-        "card-storage": "Binder",
         "name": "Toedscool",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "25",
-        "card-storage": "Binder",
         "name": "Toedscool",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "26",
-        "card-storage": "Binder",
         "name": "Toedscruel",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "27",
-        "card-storage": "Binder",
         "name": "Capsakid",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "28",
-        "card-storage": "Binder",
         "name": "Capsakid",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "29",
-        "card-storage": "Binder",
         "name": "Scovillain",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "30",
-        "card-storage": "Binder",
         "name": "Growlithe",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "31",
-        "card-storage": "Binder",
         "name": "Growlithe",
-        "base-collected": "FALSE",
-        "rh-collected": "TRUE",
-        "base-collected-type": null,
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "32",
-        "card-storage": "Top Loader",
         "name": "Arcanine ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "33",
-        "card-storage": "Binder",
         "name": "Houndour",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "34",
-        "card-storage": "Binder",
         "name": "Houndoom",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "35",
-        "card-storage": "Binder",
         "name": "Torkoal",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "36",
-        "card-storage": "Binder",
         "name": "Fuecoco",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "37",
-        "card-storage": "Binder",
         "name": "Crocalor",
-        "base-collected": "TRUE",
-        "rh-collected": "TRUE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "38",
-        "card-storage": "Binder",
         "name": "Skeledirge",
-        "base-collected": "TRUE",
-        "rh-collected": "TRUE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "39",
-        "card-storage": "Binder",
         "name": "Charcadet",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "40",
-        "card-storage": "Binder",
         "name": "Charcadet",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "41",
-        "card-storage": "Binder",
         "name": "Armarouge",
-        "base-collected": "TRUE",
-        "rh-collected": "TRUE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "42",
-        "card-storage": "Binder",
         "name": "Slowpoke",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": "Pending",
+            "collected-date": ""
+        }
     },
     {
         "number": "43",
-        "card-storage": "Binder",
         "name": "Slowbro",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "44",
-        "card-storage": "Binder",
         "name": "Magikarp",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": "Pending",
+            "collected-date": ""
+        }
     },
     {
         "number": "45",
-        "card-storage": "Top Loader",
         "name": "Gyarados ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "46",
-        "card-storage": "Binder",
         "name": "Buizel",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "47",
-        "card-storage": "Binder",
         "name": "Floatzel",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "48",
-        "card-storage": "Binder",
         "name": "Alomomola",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": "Pending",
+            "collected-date": ""
+        }
     },
     {
         "number": "49",
-        "card-storage": "Binder",
         "name": "Clauncher",
-        "base-collected": "FALSE",
-        "rh-collected": "TRUE",
-        "base-collected-type": null,
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "50",
-        "card-storage": "Binder",
         "name": "Clawitzer",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "51",
-        "card-storage": "Binder",
         "name": "Bruxish",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "52",
-        "card-storage": "Binder",
         "name": "Quaxly",
-        "base-collected": "FALSE",
-        "rh-collected": "TRUE",
-        "base-collected-type": null,
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "53",
-        "card-storage": "Binder",
         "name": "Quaxwell",
-        "base-collected": "FALSE",
-        "rh-collected": "TRUE",
-        "base-collected-type": null,
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "54",
-        "card-storage": "Binder",
         "name": "Quaquaval",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "55",
-        "card-storage": "Binder",
         "name": "Wiglett",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "56",
-        "card-storage": "Binder",
         "name": "Wiglett",
-        "base-collected": "TRUE",
-        "rh-collected": "TRUE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "57",
-        "card-storage": "Binder",
         "name": "Wugtrio",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "58",
-        "card-storage": "Binder",
         "name": "Cetoddle",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "59",
-        "card-storage": "Binder",
         "name": "Cetoddle",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "60",
-        "card-storage": "Binder",
         "name": "Cetitan",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "61",
-        "card-storage": "Binder",
         "name": "Dondozo",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "62",
-        "card-storage": "Binder",
         "name": "Tatsugiri",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "63",
-        "card-storage": "Binder",
         "name": "Magnemite",
-        "base-collected": "TRUE",
-        "rh-collected": "TRUE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "64",
-        "card-storage": "Binder",
         "name": "Magneton",
-        "base-collected": "TRUE",
-        "rh-collected": "TRUE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "65",
-        "card-storage": "Top Loader",
         "name": "Magnezone ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "66",
-        "card-storage": "Binder",
         "name": "Mareep",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": "Pending",
+            "collected-date": ""
+        }
     },
     {
         "number": "67",
-        "card-storage": "Binder",
         "name": "Flaaffy",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "68",
-        "card-storage": "Binder",
         "name": "Pachirisu",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": "Pending",
+            "collected-date": ""
+        }
     },
     {
         "number": "69",
-        "card-storage": "Binder",
         "name": "Rotom",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "70",
-        "card-storage": "Binder",
         "name": "Rotom",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "71",
-        "card-storage": "Binder",
         "name": "Toxel",
-        "base-collected": "TRUE",
-        "rh-collected": "TRUE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "72",
-        "card-storage": "Binder",
         "name": "Toxtricity",
-        "base-collected": "TRUE",
-        "rh-collected": "TRUE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "73",
-        "card-storage": "Binder",
         "name": "Pawmi",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": "Pending",
+            "collected-date": ""
+        }
     },
     {
         "number": "74",
-        "card-storage": "Binder",
         "name": "Pawmi",
-        "base-collected": "FALSE",
-        "rh-collected": "TRUE",
-        "base-collected-type": null,
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "75",
-        "card-storage": "Binder",
         "name": "Pawmo",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": "Pending",
+            "collected-date": ""
+        }
     },
     {
         "number": "76",
-        "card-storage": "Binder",
         "name": "Pawmot",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "77",
-        "card-storage": "Binder",
         "name": "Wattrel",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "78",
-        "card-storage": "Binder",
         "name": "Wattrel",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "79",
-        "card-storage": "Binder",
         "name": "Kilowattrel",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": "Pending",
+            "collected-date": ""
+        }
     },
     {
         "number": "80",
-        "card-storage": "Binder",
         "name": "Miraidon",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "81",
-        "card-storage": "Top Loader",
         "name": "Miraidon ex",
-        "base-collected": "TRUE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "82",
-        "card-storage": "Binder",
         "name": "Drowzee",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": "Pending",
+            "collected-date": ""
+        }
     },
     {
         "number": "83",
-        "card-storage": "Binder",
         "name": "Hypno",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "84",
-        "card-storage": "Binder",
         "name": "Ralts",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "85",
-        "card-storage": "Binder",
         "name": "Kirlia",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": "Pending",
+            "collected-date": ""
+        }
     },
     {
         "number": "86",
-        "card-storage": "Top Loader",
         "name": "Gardevoir ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "87",
-        "card-storage": "Binder",
         "name": "Shuppet",
-        "base-collected": "TRUE",
-        "rh-collected": "TRUE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "88",
-        "card-storage": "Top Loader",
         "name": "Banette ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "89",
-        "card-storage": "Binder",
         "name": "Drifloon",
-        "base-collected": "TRUE",
-        "rh-collected": "TRUE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "90",
-        "card-storage": "Binder",
         "name": "Drifblim",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "91",
-        "card-storage": "Binder",
-        "name": "Flabébé",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "name": "Flab\u00e9b\u00e9",
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "92",
-        "card-storage": "Binder",
         "name": "Floette",
-        "base-collected": "FALSE",
-        "rh-collected": "TRUE",
-        "base-collected-type": null,
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "93",
-        "card-storage": "Binder",
         "name": "Florges",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "94",
-        "card-storage": "Binder",
         "name": "Dedenne",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "95",
-        "card-storage": "Binder",
         "name": "Dedenne",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "96",
-        "card-storage": "Binder",
         "name": "Klefki",
-        "base-collected": "TRUE",
-        "rh-collected": "TRUE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "97",
-        "card-storage": "Binder",
         "name": "Fidough",
-        "base-collected": "FALSE",
-        "rh-collected": "TRUE",
-        "base-collected-type": null,
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "98",
-        "card-storage": "Binder",
         "name": "Fidough",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "99",
-        "card-storage": "Binder",
         "name": "Dachsbun",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "100",
-        "card-storage": "Binder",
         "name": "Flittle",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "101",
-        "card-storage": "Binder",
         "name": "Flittle",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "102",
-        "card-storage": "Binder",
         "name": "Flittle",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "103",
-        "card-storage": "Binder",
         "name": "Espathra",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "104",
-        "card-storage": "Binder",
         "name": "Greavard",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "105",
-        "card-storage": "Binder",
         "name": "Greavard",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "106",
-        "card-storage": "Binder",
         "name": "Houndstone",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "107",
-        "card-storage": "Binder",
         "name": "Mankey",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": "Pending",
+            "collected-date": ""
+        }
     },
     {
         "number": "108",
-        "card-storage": "Binder",
         "name": "Primeape",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "109",
-        "card-storage": "Binder",
         "name": "Annihilape",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "110",
-        "card-storage": "Binder",
         "name": "Meditite",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "111",
-        "card-storage": "Binder",
         "name": "Medicham",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "112",
-        "card-storage": "Binder",
         "name": "Riolu",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "113",
-        "card-storage": "Binder",
         "name": "Riolu",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "114",
-        "card-storage": "Binder",
         "name": "Lucario",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "115",
-        "card-storage": "Binder",
         "name": "Sandile",
-        "base-collected": "TRUE",
-        "rh-collected": "TRUE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "116",
-        "card-storage": "Binder",
         "name": "Krokorok",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "117",
-        "card-storage": "Binder",
         "name": "Krookodile",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "118",
-        "card-storage": "Binder",
         "name": "Hawlucha",
-        "base-collected": "FALSE",
-        "rh-collected": "TRUE",
-        "base-collected-type": null,
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "119",
-        "card-storage": "Binder",
         "name": "Silicobra",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": "Pending",
+            "collected-date": ""
+        }
     },
     {
         "number": "120",
-        "card-storage": "Binder",
         "name": "Sandaconda",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "121",
-        "card-storage": "Binder",
         "name": "Stonjourner",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "122",
-        "card-storage": "Binder",
         "name": "Klawf",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "123",
-        "card-storage": "Top Loader",
         "name": "Great Tusk ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "124",
-        "card-storage": "Binder",
         "name": "Koraidon",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "125",
-        "card-storage": "Top Loader",
         "name": "Koraidon ex",
-        "base-collected": "TRUE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "126",
-        "card-storage": "Binder",
         "name": "Grimer",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "127",
-        "card-storage": "Binder",
         "name": "Muk",
-        "base-collected": "TRUE",
-        "rh-collected": "TRUE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "128",
-        "card-storage": "Binder",
         "name": "Seviper",
-        "base-collected": "TRUE",
-        "rh-collected": "TRUE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "129",
-        "card-storage": "Binder",
         "name": "Spiritomb",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "130",
-        "card-storage": "Binder",
         "name": "Croagunk",
-        "base-collected": "TRUE",
-        "rh-collected": "TRUE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "131",
-        "card-storage": "Top Loader",
         "name": "Toxicroak ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "132",
-        "card-storage": "Binder",
         "name": "Pawniard",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "133",
-        "card-storage": "Binder",
         "name": "Bisharp",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": "Pending",
+            "collected-date": ""
+        }
     },
     {
         "number": "134",
-        "card-storage": "Binder",
         "name": "Kingambit",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": "Pending",
+            "collected-date": ""
+        }
     },
     {
         "number": "135",
-        "card-storage": "Binder",
         "name": "Maschiff",
-        "base-collected": "FALSE",
-        "rh-collected": "TRUE",
-        "base-collected-type": null,
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "136",
-        "card-storage": "Binder",
         "name": "Maschiff",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "137",
-        "card-storage": "Binder",
         "name": "Mabosstiff",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "138",
-        "card-storage": "Binder",
         "name": "Bombirdier",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "139",
-        "card-storage": "Binder",
         "name": "Forretress",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "140",
-        "card-storage": "Binder",
         "name": "Varoom",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "141",
-        "card-storage": "Binder",
         "name": "Varoom",
-        "base-collected": "TRUE",
-        "rh-collected": "TRUE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "142",
-        "card-storage": "Binder",
         "name": "Revavroom",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "143",
-        "card-storage": "Top Loader",
         "name": "Iron Treads ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "144",
-        "card-storage": "Binder",
         "name": "Chansey",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": "Pending",
+            "collected-date": ""
+        }
     },
     {
         "number": "145",
-        "card-storage": "Binder",
         "name": "Blissey",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "146",
-        "card-storage": "Binder",
         "name": "Zangoose",
-        "base-collected": "TRUE",
-        "rh-collected": "TRUE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "147",
-        "card-storage": "Binder",
         "name": "Zangoose",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "148",
-        "card-storage": "Binder",
         "name": "Starly",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": "Pending",
+            "collected-date": ""
+        }
     },
     {
         "number": "149",
-        "card-storage": "Binder",
         "name": "Staravia",
-        "base-collected": "FALSE",
-        "rh-collected": "TRUE",
-        "base-collected-type": null,
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "150",
-        "card-storage": "Binder",
         "name": "Staraptor",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "151",
-        "card-storage": "Binder",
         "name": "Skwovet",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": "Pending",
+            "collected-date": ""
+        }
     },
     {
         "number": "152",
-        "card-storage": "Binder",
         "name": "Greedent",
-        "base-collected": "TRUE",
-        "rh-collected": "TRUE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "153",
-        "card-storage": "Binder",
         "name": "Indeedee",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": "Pending",
+            "collected-date": ""
+        }
     },
     {
         "number": "154",
-        "card-storage": "Binder",
         "name": "Lechonk",
-        "base-collected": "FALSE",
-        "rh-collected": "TRUE",
-        "base-collected-type": null,
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "155",
-        "card-storage": "Binder",
         "name": "Lechonk",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "156",
-        "card-storage": "Binder",
         "name": "Lechonk",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "157",
-        "card-storage": "Binder",
         "name": "Oinkalogne",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "158",
-        "card-storage": "Top Loader",
         "name": "Oinkologne ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "159",
-        "card-storage": "Binder",
         "name": "Tandemaus",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "160",
-        "card-storage": "Binder",
         "name": "Tandemaus",
-        "base-collected": "FALSE",
-        "rh-collected": "TRUE",
-        "base-collected-type": null,
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "161",
-        "card-storage": "Binder",
         "name": "Maushold",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "162",
-        "card-storage": "Binder",
         "name": "Squawkabilly",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": "Pending",
+            "collected-date": ""
+        }
     },
     {
         "number": "163",
-        "card-storage": "Binder",
         "name": "Cyclizar",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "164",
-        "card-storage": "Binder",
         "name": "Cyclizar",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": "Pending",
+            "collected-date": ""
+        }
     },
     {
         "number": "165",
-        "card-storage": "Binder",
         "name": "Flamigo",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "166",
-        "card-storage": "Binder",
         "name": "Arven",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "167",
-        "card-storage": "Binder",
         "name": "Beach Court",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "168",
-        "card-storage": "Binder",
         "name": "Crushing Hammer",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "169",
-        "card-storage": "Binder",
         "name": "Defiance Band",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "170",
-        "card-storage": "Binder",
         "name": "Electric Generator",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "171",
-        "card-storage": "Binder",
         "name": "Energy Retrieval",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "172",
-        "card-storage": "Binder",
         "name": "Energy Search",
-        "base-collected": "FALSE",
-        "rh-collected": "TRUE",
-        "base-collected-type": null,
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "173",
-        "card-storage": "Binder",
         "name": "Energy Switch",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "174",
-        "card-storage": "Binder",
         "name": "Exp. Share",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "175",
-        "card-storage": "Binder",
         "name": "Jacq",
-        "base-collected": "TRUE",
-        "rh-collected": "TRUE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "176",
-        "card-storage": "Binder",
         "name": "Judge",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "177",
-        "card-storage": "Binder",
         "name": "Katy",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "178",
-        "card-storage": "Binder",
         "name": "Mesagoza",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "179",
-        "card-storage": "Binder",
         "name": "Miriam",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "180",
-        "card-storage": "Binder",
         "name": "Nemona",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "181",
-        "card-storage": "Binder",
         "name": "Nest Ball",
-        "base-collected": "TRUE",
-        "rh-collected": "TRUE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "182",
-        "card-storage": "Binder",
         "name": "Pal Pad",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "183",
-        "card-storage": "Binder",
         "name": "Penny",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "184",
-        "card-storage": "Binder",
         "name": "Picnic Basket",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "185",
-        "card-storage": "Binder",
-        "name": "Poké Ball",
-        "base-collected": "TRUE",
-        "rh-collected": "TRUE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": "Packed"
+        "name": "Pok\u00e9 Ball",
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "186",
-        "card-storage": "Binder",
-        "name": "Pokégear 3.0",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "name": "Pok\u00e9gear 3.0",
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "187",
-        "card-storage": "Binder",
-        "name": "Pokémon Catcher",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "name": "Pok\u00e9mon Catcher",
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "188",
-        "card-storage": "Binder",
         "name": "Potion",
-        "base-collected": "TRUE",
-        "rh-collected": "TRUE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "189",
-        "card-storage": "Binder",
         "name": "Professor's Research",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "190",
-        "card-storage": "Binder",
         "name": "Professor's Research",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "191",
-        "card-storage": "Binder",
         "name": "Rare Candy",
-        "base-collected": "FALSE",
-        "rh-collected": "FALSE",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": "Pending",
+            "collected-date": ""
+        }
     },
     {
         "number": "192",
-        "card-storage": "Binder",
         "name": "Rock Chestplate",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "193",
-        "card-storage": "Binder",
         "name": "Rocky Helmet",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "194",
-        "card-storage": "Binder",
         "name": "Switch",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": "Pending",
+            "collected-date": ""
+        }
     },
     {
         "number": "195",
-        "card-storage": "Binder",
         "name": "Team Star Grunt",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "196",
-        "card-storage": "Binder",
         "name": "Ultra Ball",
-        "base-collected": "TRUE",
-        "rh-collected": "TRUE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "197",
-        "card-storage": "Binder",
         "name": "Vitality Band",
-        "base-collected": "FALSE",
-        "rh-collected": "TRUE",
-        "base-collected-type": null,
-        "rh-collected-type": "Packed"
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        }
     },
     {
         "number": "198",
-        "card-storage": "Binder",
         "name": "Youngster",
-        "base-collected": "TRUE",
-        "rh-collected": "FALSE",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Binder",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": true,
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        }
     },
     {
         "number": "199",
-        "card-storage": "Top Loader",
         "name": "Tarountula",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "200",
-        "card-storage": "Top Loader",
         "name": "Dolliv",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "201",
-        "card-storage": "Top Loader",
         "name": "Toedscool",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "202",
-        "card-storage": "Top Loader",
         "name": "Scovillain",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "203",
-        "card-storage": "Top Loader",
         "name": "Armarouge",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "204",
-        "card-storage": "Top Loader",
         "name": "Slowpoke",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "205",
-        "card-storage": "Top Loader",
         "name": "Clauncher",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "206",
-        "card-storage": "Top Loader",
         "name": "Wiglett",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "207",
-        "card-storage": "Top Loader",
         "name": "Dondozo",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "208",
-        "card-storage": "Top Loader",
         "name": "Pachirisu",
-        "base-collected": "TRUE",
-        "rh-collected": "-",
-        "base-collected-type": "Packed",
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "209",
-        "card-storage": "Top Loader",
         "name": "Pawmot",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "210",
-        "card-storage": "Top Loader",
         "name": "Drowzee",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "211",
-        "card-storage": "Top Loader",
         "name": "Ralts",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "212",
-        "card-storage": "Top Loader",
         "name": "Kirlia",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "213",
-        "card-storage": "Top Loader",
         "name": "Fidough",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "214",
-        "card-storage": "Top Loader",
         "name": "Greavard",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "215",
-        "card-storage": "Top Loader",
         "name": "Riolu",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "216",
-        "card-storage": "Top Loader",
         "name": "Sandile",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "217",
-        "card-storage": "Top Loader",
         "name": "Klawf",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "218",
-        "card-storage": "Top Loader",
         "name": "Mabosstiff",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "219",
-        "card-storage": "Top Loader",
         "name": "Bombirdier",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "220",
-        "card-storage": "Top Loader",
         "name": "Kingambit",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "221",
-        "card-storage": "Top Loader",
         "name": "Starly",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "222",
-        "card-storage": "Top Loader",
         "name": "Skwovet",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "223",
-        "card-storage": "Top Loader",
         "name": "Spidops ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "224",
-        "card-storage": "Top Loader",
         "name": "Arcanine ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "225",
-        "card-storage": "Top Loader",
         "name": "Gyarados ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "226",
-        "card-storage": "Top Loader",
         "name": "Magnezone ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "227",
-        "card-storage": "Top Loader",
         "name": "Miraidon ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "228",
-        "card-storage": "Top Loader",
         "name": "Gardevoir ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "229",
-        "card-storage": "Top Loader",
         "name": "Banette ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "230",
-        "card-storage": "Top Loader",
         "name": "Great Tusk ex",
-        "base-collected": "TRUE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": true,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "231",
-        "card-storage": "Top Loader",
         "name": "Koraidon ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "232",
-        "card-storage": "Top Loader",
         "name": "Toxicroak ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "233",
-        "card-storage": "Top Loader",
         "name": "Iron Treads ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "234",
-        "card-storage": "Top Loader",
         "name": "Oinkologne ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "235",
-        "card-storage": "Top Loader",
         "name": "Arven",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "236",
-        "card-storage": "Top Loader",
         "name": "Jacq",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "237",
-        "card-storage": "Top Loader",
         "name": "Katy",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "238",
-        "card-storage": "Top Loader",
         "name": "Miriam",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "239",
-        "card-storage": "Top Loader",
         "name": "Penny",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "240",
-        "card-storage": "Top Loader",
         "name": "Professor's Research",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "241",
-        "card-storage": "Top Loader",
         "name": "Professor's Research",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "242",
-        "card-storage": "Top Loader",
         "name": "Team Star Grunt",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "243",
-        "card-storage": "Top Loader",
         "name": "Spidops ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "244",
-        "card-storage": "Top Loader",
         "name": "Miraidon ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "245",
-        "card-storage": "Top Loader",
         "name": "Gardevoir ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "246",
-        "card-storage": "Top Loader",
         "name": "Great Tusk ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "247",
-        "card-storage": "Top Loader",
         "name": "Koraidon ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "248",
-        "card-storage": "Top Loader",
         "name": "Iron Treads ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "249",
-        "card-storage": "Top Loader",
         "name": "Arven",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "250",
-        "card-storage": "Top Loader",
         "name": "Jacq",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "251",
-        "card-storage": "Top Loader",
         "name": "Miriam",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "252",
-        "card-storage": "Top Loader",
         "name": "Penny",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "253",
-        "card-storage": "Top Loader",
         "name": "Miraidon ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "254",
-        "card-storage": "Top Loader",
         "name": "Koraidon ex",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": true,
+            "collected-type": "Packed",
+            "collected-date": null
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "255",
-        "card-storage": "Top Loader",
         "name": "Nest Ball",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "256",
-        "card-storage": "Top Loader",
         "name": "Rare Candy",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "257",
-        "card-storage": "Top Loader",
         "name": "Basic Lightning Energy",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     },
     {
         "number": "258",
-        "card-storage": "Top Loader",
         "name": "Basic Fighting Energy",
-        "base-collected": "FALSE",
-        "rh-collected": "-",
-        "base-collected-type": null,
-        "rh-collected-type": null
+        "storage": "Top Loader",
+        "base-card": {
+            "collected": false,
+            "collected-type": null,
+            "collected-date": ""
+        },
+        "reverse-holo": {
+            "has-reverse-holo": false
+        }
     }
 ]

@@ -16,9 +16,16 @@ export function prepareBinder(cardData){
     // Convert HTMLCollection to an array and then use forEach
     Array.from(binderCards).forEach(card => {
         let image = card.querySelector('img');
+        let isReverseHolo = card.classList.contains('reverse-holo')
         let displayImage = displayCard.querySelector('img');
 
         image.addEventListener('click', function() {
+            if(isReverseHolo){
+                displayCard.classList.add('reverse-holo');
+            }
+            else{
+                displayCard.classList.remove('reverse-holo');
+            }
             displayCard.style.display = 'flex';
             displayImage.src = image.src
         });
@@ -30,6 +37,9 @@ export function prepareBinder(cardData){
         let displayImage = displayCard.querySelector('img');
 
         image.addEventListener('click', function() {
+            if(displayCard.classList.contains('reverse-holo')){
+                displayCard.classList.remove('reverse-holo');
+            }
             displayCard.style.display = 'flex';
             displayImage.src = image.src
         });

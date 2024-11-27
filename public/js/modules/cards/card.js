@@ -1,23 +1,23 @@
 // Refactored Card Class
 export default class Card {
-    constructor(number, name, baseCollected, rhCollected, storage) {
+    constructor(number, name, baseCard, rhCard, storage) {
         this.number = number;
         this.name = name;
-        this.baseCollected = baseCollected;
-        this.rhCollected = rhCollected;
+        this.baseCard = baseCard;
+        this.rhCard = rhCard;
         this.storage = storage;
 
     }
 
     isRHAvailable(){
-        return this.rhCollected !== "-";
+        return this.rhCard["has-reverse-holo"] !== false;
     }
 
     isBaseCollected() {
-        return this.baseCollected === "TRUE";
+        return this.baseCard["collected"] === true;
     }
     isRHCollected() {
-        return this.rhCollected === "TRUE";
+        return this.rhCard["collected"] === true;
     }
 
     isBinderCard(){

@@ -22,6 +22,29 @@
   margin: 5px auto;
 }
 
+/* Static Rainbow Effect */
+.reverse-holo::after {
+  pointer-events: none;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(135deg, red, orange, yellow, green, blue, indigo, violet);
+  opacity: 0.5; /* Make the rainbow effect semi-transparent */
+  z-index: 1; /* Place the rainbow effect above the image */
+  border-radius: 8px; /* Optional: rounds the corners to match the image */
+}
+
+/* Ensure the image is not hidden by the overlay */
+.reverse-holo img {
+  width: 100%;
+  object-fit: cover; /* Makes sure the image covers the area without stretching */
+  border-radius: 8px; /* Optional: rounds the corners of the image */
+  z-index: 0; /* Keeps the image below the rainbow effect */
+}
+
 #display-card {
   z-index: 99;
   background-color: rgba(0, 0, 0, 0.8); /* Dark overlay */
